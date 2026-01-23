@@ -4,9 +4,8 @@
   "created_at": "2026-01-21T12:00:00Z",
   "min_app_version": "1.0.0",
   "package": {
-    "url": "https://github.com/dhoenscheid/HandballApp/releases/download/v1/handball-library_v1.hblib",
-    "sha256": "2EB6DFE63C3B4E5D81E1F998B8E02A87132AB3748D6902FCCA9052D88EAF774F",
-    "bytes": 12345678
+    "url": "https://github.com/dhoenscheid/HandballApp/releases/download/v1/handball-library_v1.hblib"
+    
   },
   "stats": {
     "sessions": 19,
