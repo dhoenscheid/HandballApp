@@ -1,0 +1,211 @@
+{
+  "source_file": "trainingseinheit 184.pdf",
+  "id": 184,
+  "title": "Abwehrarbeit auf der Außenposition in",
+  "duration_total_min": 90,
+  "equipment": [
+    "Bälle",
+    "Hütchen"
+  ],
+  "drills": [
+    {
+      "drill_id": "184-1",
+      "title": "Einlaufen/Dehnen",
+      "duration_min": 15,
+      "cumulative_min": 15,
+      "phase": "Warm-up",
+      "source_page_start": 2,
+      "text": {
+        "preface": "",
+        "setup": "",
+        "execution": "",
+        "coaching_points": "",
+        "variations": "",
+        "goal": "",
+        "raw_rest": ""
+      },
+      "text_bullets": {
+        "setup": [],
+        "execution": [],
+        "coaching_points": [],
+        "variations": [],
+        "goal": []
+      },
+      "tags": {
+        "formation": "unbekannt",
+        "concept_tags": [],
+        "drill_level": "unbekannt",
+        "requires_goalkeeper": false
+      },
+      "images": []
+    },
+    {
+      "drill_id": "184-2",
+      "title": "kleines Spiel",
+      "duration_min": 10,
+      "cumulative_min": 25,
+      "phase": "Spiel",
+      "source_page_start": 2,
+      "text": {
+        "preface": "",
+        "setup": "",
+        "execution": "",
+        "coaching_points": "",
+        "variations": "",
+        "goal": "",
+        "raw_rest": ""
+      },
+      "text_bullets": {
+        "setup": [],
+        "execution": [],
+        "coaching_points": [],
+        "variations": [],
+        "goal": []
+      },
+      "tags": {
+        "formation": "unbekannt",
+        "concept_tags": [],
+        "drill_level": "unbekannt",
+        "requires_goalkeeper": false
+      },
+      "images": []
+    },
+    {
+      "drill_id": "184-3",
+      "title": "Ballgewöhnung",
+      "duration_min": 10,
+      "cumulative_min": 35,
+      "phase": "Ballhandling",
+      "source_page_start": 2,
+      "text": {
+        "preface": "",
+        "setup": "",
+        "execution": "",
+        "coaching_points": "",
+        "variations": "",
+        "goal": "",
+        "raw_rest": ""
+      },
+      "text_bullets": {
+        "setup": [],
+        "execution": [],
+        "coaching_points": [],
+        "variations": [],
+        "goal": []
+      },
+      "tags": {
+        "formation": "unbekannt",
+        "concept_tags": [],
+        "drill_level": "unbekannt",
+        "requires_goalkeeper": false
+      },
+      "images": []
+    },
+    {
+      "drill_id": "184-4",
+      "title": "Torhüter einwerfen",
+      "duration_min": 10,
+      "cumulative_min": 45,
+      "phase": "Torhüter",
+      "source_page_start": 2,
+      "text": {
+        "preface": "",
+        "setup": "",
+        "execution": "",
+        "coaching_points": "",
+        "variations": "",
+        "goal": "",
+        "raw_rest": ""
+      },
+      "text_bullets": {
+        "setup": [],
+        "execution": [],
+        "coaching_points": [],
+        "variations": [],
+        "goal": []
+      },
+      "tags": {
+        "formation": "unbekannt",
+        "concept_tags": [],
+        "drill_level": "unbekannt",
+        "requires_goalkeeper": true
+      },
+      "images": []
+    },
+    {
+      "drill_id": "184-5",
+      "title": "Hauptteil",
+      "duration_min": 35,
+      "cumulative_min": 80,
+      "phase": "Angriff",
+      "source_page_start": 2,
+      "text": {
+        "preface": "",
+        "setup": "",
+        "execution": "",
+        "coaching_points": "",
+        "variations": "",
+        "goal": "",
+        "raw_rest": ""
+      },
+      "text_bullets": {
+        "setup": [],
+        "execution": [],
+        "coaching_points": [],
+        "variations": [],
+        "goal": []
+      },
+      "tags": {
+        "formation": "unbekannt",
+        "concept_tags": [],
+        "drill_level": "unbekannt",
+        "requires_goalkeeper": false
+      },
+      "images": []
+    },
+    {
+      "drill_id": "184-6",
+      "title": "Abschlussspiel",
+      "duration_min": 10,
+      "cumulative_min": 90,
+      "phase": "Spiel",
+      "source_page_start": 2,
+      "text": {
+        "preface": "",
+        "setup": "",
+        "execution": "",
+        "coaching_points": "",
+        "variations": "",
+        "goal": "",
+        "raw_rest": ""
+      },
+      "text_bullets": {
+        "setup": [],
+        "execution": [],
+        "coaching_points": [],
+        "variations": [],
+        "goal": []
+      },
+      "tags": {
+        "formation": "unbekannt",
+        "concept_tags": [],
+        "drill_level": "unbekannt",
+        "requires_goalkeeper": false
+      },
+      "images": []
+    }
+  ],
+  "extraction": {
+    "method": "pymupdf_text_regex_v2",
+    "notes": "Metadata and drill headers extracted; drill descriptions are referenced via source_page_start to avoid verbatim reproduction."
+  },
+  "tags": {
+    "formation": "unbekannt",
+    "focus_area": "unbekannt",
+    "concept_tags": [],
+    "equipment_tags": [
+      "Hütchen",
+      "Ballkiste"
+    ]
+  }
+}
