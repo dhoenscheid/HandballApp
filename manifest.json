@@ -1,16 +1,19 @@
 {
   "library_id": "handball-training-library",
-  "version": "v1",
-  "created_at": "2026-01-21T12:00:00Z",
+  "version": "v15",
+  "created_at": "2026-01-28T17:11:48.676955",
   "min_app_version": "1.0.0",
   "package": {
-    "url": "https://raw.githubusercontent.com/dhoenscheid/HandballApp/main/handball-library_v14.hblib"
+    "url": "https://raw.githubusercontent.com/dhoenscheid/HandballApp/main/library_v15_remote_images.json",
+    "type": "json"
   },
   "stats": {
     "sessions": 59,
-    "drills": 376
+    "drills": 376,
+    "images": 376
   },
   "changelog": [
+    "v15: Optimiert für mobile Geräte mit Remote Images",
     "Initiale Bibliothek",
     "Alle Drills mit Bildern",
     "Offline-fähig"
