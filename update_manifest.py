@@ -56,8 +56,8 @@ def update_manifest(manifest_path, library_version, library_url, stats):
 if __name__ == '__main__':
     # Configuration
     manifest_path = 'manifest.json'
-    library_version = 'v15'
-    library_url = 'https://raw.githubusercontent.com/dhoenscheid/HandballApp/main/library_v15_remote_images.json'
+    library_version = 'v16'
+    library_url = 'https://raw.githubusercontent.com/dhoenscheid/HandballApp/main/library_v16_remote_images.json'
     
     stats = {
         "sessions": 59,
@@ -69,6 +69,6 @@ if __name__ == '__main__':
     update_manifest(manifest_path, library_version, library_url, stats)
     
     print("\n✓ Done! Commit and push manifest.json to GitHub:")
-    print("  git add manifest.json")
-    print("  git commit -m 'Update to v15 with remote images'")
+    print("  git add manifest.json library_v16_remote_images.json")
+    print("  git commit -m 'Update to v16 with cleaned data'")
     print("  git push")

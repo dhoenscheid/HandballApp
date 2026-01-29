@@ -12,11 +12,15 @@ def create_library_json_for_app(input_json_path, output_json_path, base_image_ur
     Create optimized library.json with remote image URLs.
     
     Args:
-        input_json_path: Path to library_with_full_pages.json
+        input_json_path: Path to library_v16_cleaned.json
         output_json_path: Output path for optimized library.json
         base_image_url: Base URL for images (e.g., https://raw.githubusercontent.com/.../drill_images/)
     """
     print(f"Creating app-ready library.json...")
+    
+    # Change to script directory
+    import os
+    os.chdir(os.path.dirname(os.path.abspath(__file__)))
     
     # Load library JSON
     with open(input_json_path, 'r', encoding='utf-8') as f:
@@ -99,8 +103,8 @@ def create_library_json_for_app(input_json_path, output_json_path, base_image_ur
 
 if __name__ == '__main__':
     # Paths
-    input_json = 'library_with_full_pages.json'
-    output_json = 'library_v15_remote_images.json'
+    input_json = 'library_v16_cleaned.json'
+    output_json = 'library_v16_remote_images.json'
     
     # Base URL für Bilder (GitHub Raw URL)
     base_image_url = 'https://raw.githubusercontent.com/dhoenscheid/HandballApp/main/'
